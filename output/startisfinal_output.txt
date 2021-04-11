@@ -1,0 +1,233 @@
+Uniform cost search:
+Solutie : 
+####
+####
+####
+####
+
+S-au realizat 1 mutari cu costul 0.
+Numarul maxim de noduri in memorie:  11
+Numarul total de noduri calculate:  114
+Durata: 0.1404285 milisecunde
+
+----------------
+
+Nu exista solutie
+############################
+
+
+A*:
+Heuristic:  ordinary heuristic
+Solutie : 
+####
+####
+####
+####
+
+S-au realizat 1 mutari cu costul 0.
+Numarul maxim de noduri in memorie:  1
+Numarul total de noduri calculate:  1
+Durata: 0.1652241 milisecunde
+
+----------------
+
+Nu exista solutie
+############################
+
+
+Heuristic:  heuristic 1
+Solutie : 
+####
+####
+####
+####
+
+S-au realizat 1 mutari cu costul 0.
+Numarul maxim de noduri in memorie:  1
+Numarul total de noduri calculate:  1
+Durata: 0.1275539 milisecunde
+
+----------------
+
+Nu exista solutie
+############################
+
+
+Heuristic:  heuristic 2
+Solutie : 
+####
+####
+####
+####
+
+S-au realizat 1 mutari cu costul 0.
+Numarul maxim de noduri in memorie:  1
+Numarul total de noduri calculate:  1
+Durata: 0.1759529 milisecunde
+
+----------------
+
+Nu exista solutie
+############################
+
+
+Heuristic:  bad heuristic
+Solutie : 
+####
+####
+####
+####
+
+S-au realizat 1 mutari cu costul 0.
+Numarul maxim de noduri in memorie:  1
+Numarul total de noduri calculate:  1
+Durata: 0.1754761 milisecunde
+
+----------------
+
+Nu exista solutie
+############################
+
+
+A* with open/write:
+Heuristic:  ordinary heuristic
+Solutie : 
+####
+####
+####
+####
+
+S-au realizat 1 mutari cu costul 0.
+Numarul maxim de noduri in memorie:  1
+Numarul total de noduri calculate:  1
+Durata: 0.1575947 milisecunde
+
+----------------
+
+############################
+
+
+Heuristic:  heuristic 1
+Solutie : 
+####
+####
+####
+####
+
+S-au realizat 1 mutari cu costul 0.
+Numarul maxim de noduri in memorie:  1
+Numarul total de noduri calculate:  1
+Durata: 0.2019405 milisecunde
+
+----------------
+
+############################
+
+
+Heuristic:  heuristic 2
+Solutie : 
+####
+####
+####
+####
+
+S-au realizat 1 mutari cu costul 0.
+Numarul maxim de noduri in memorie:  1
+Numarul total de noduri calculate:  1
+Durata: 0.1950264 milisecunde
+
+----------------
+
+############################
+
+
+Heuristic:  bad heuristic
+Solutie : 
+####
+####
+####
+####
+
+S-au realizat 1 mutari cu costul 0.
+Numarul maxim de noduri in memorie:  1
+Numarul total de noduri calculate:  1
+Durata: 0.1044273 milisecunde
+
+----------------
+
+############################
+
+
+IDA*:
+Heuristic:  ordinary heuristic
+Solutie: 
+####
+####
+####
+####
+
+S-au realizat 1 mutari cu costul 0.
+Numarul maxim de noduri in memorie:  1
+Numarul total de noduri calculate:  1
+Durata: 0.108242 milisecunde
+
+----------------
+
+Nu exista solutie
+############################
+
+
+Heuristic:  heuristic 1
+Solutie: 
+####
+####
+####
+####
+
+S-au realizat 1 mutari cu costul 0.
+Numarul maxim de noduri in memorie:  1
+Numarul total de noduri calculate:  2
+Durata: 0.1120567 milisecunde
+
+----------------
+
+Nu exista solutie
+############################
+
+
+Heuristic:  heuristic 2
+Solutie: 
+####
+####
+####
+####
+
+S-au realizat 1 mutari cu costul 0.
+Numarul maxim de noduri in memorie:  1
+Numarul total de noduri calculate:  3
+Durata: 0.1027584 milisecunde
+
+----------------
+
+Nu exista solutie
+############################
+
+
+Heuristic:  bad heuristic
+Solutie: 
+####
+####
+####
+####
+
+S-au realizat 1 mutari cu costul 0.
+Numarul maxim de noduri in memorie:  1
+Numarul total de noduri calculate:  4
+Durata: 0.1795292 milisecunde
+
+----------------
+
+Nu exista solutie
+############################
+
+

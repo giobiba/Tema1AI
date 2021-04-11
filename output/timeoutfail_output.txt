@@ -1,0 +1,1506 @@
+Uniform cost search:
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+#######
+abb##b#
+cccb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  3216
+Numarul total de noduri calculate:  3476
+Durata: 781.9793224 milisecunde
+
+----------------
+
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+####f##
+###bfb#
+abbffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  3216
+Numarul total de noduri calculate:  3476
+Durata: 782.0227146 milisecunde
+
+----------------
+
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+####f##
+###bfb#
+abbffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.0,
+####f##
+####fb#
+###bfb#
+#bbffb#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  3216
+Numarul total de noduri calculate:  3476
+Durata: 782.0591927 milisecunde
+
+----------------
+
+############################
+
+
+A*:
+Heuristic:  ordinary heuristic
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+#######
+abb##b#
+cccb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  1871
+Numarul total de noduri calculate:  1940
+Durata: 308.7530136 milisecunde
+
+----------------
+
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+####f##
+###bfb#
+abbffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  1871
+Numarul total de noduri calculate:  1940
+Durata: 308.7933064 milisecunde
+
+----------------
+
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+####f##
+###bfb#
+abbffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.0,
+####f##
+####fb#
+###bfb#
+#bbffb#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  1871
+Numarul total de noduri calculate:  1940
+Durata: 308.8281155 milisecunde
+
+----------------
+
+############################
+
+
+Heuristic:  heuristic 1
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+#######
+abb##b#
+cccb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  186
+Numarul total de noduri calculate:  188
+Durata: 12.7117634 milisecunde
+
+----------------
+
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+####f##
+###bfb#
+abbffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  186
+Numarul total de noduri calculate:  188
+Durata: 12.7520561 milisecunde
+
+----------------
+
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+####f##
+###bfb#
+abbffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.0,
+####f##
+####fb#
+###bfb#
+#bbffb#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  186
+Numarul total de noduri calculate:  188
+Durata: 12.78615 milisecunde
+
+----------------
+
+############################
+
+
+Heuristic:  heuristic 2
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+#######
+abb##b#
+cccb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  918
+Numarul total de noduri calculate:  920
+Durata: 99.7061729 milisecunde
+
+----------------
+
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+####f##
+###bfb#
+abbffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  918
+Numarul total de noduri calculate:  920
+Durata: 99.7462273 milisecunde
+
+----------------
+
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+####f##
+###bfb#
+abbffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.0,
+####f##
+####fb#
+###bfb#
+#bbffb#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  918
+Numarul total de noduri calculate:  920
+Durata: 99.7793674 milisecunde
+
+----------------
+
+############################
+
+
+Heuristic:  bad heuristic
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+ccccf##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4286,
+####f##
+###bfb#
+abbffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  28
+Numarul total de noduri calculate:  30
+Durata: 3.4732819 milisecunde
+
+----------------
+
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+ccccf##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4286,
+####f##
+###bfb#
+abbffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.0,
+####f##
+####fb#
+###bfb#
+#bbffb#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  29
+Numarul total de noduri calculate:  32
+Durata: 3.8044453 milisecunde
+
+----------------
+
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+ccccf##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4286,
+####f##
+###bfb#
+abbffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+abbb###
+aaaa###
+
+Cost mutare: 1.25,
+#######
+#######
+#######
+#######
+#bbb###
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 8 mutari cu costul 8.1331.
+Numarul maxim de noduri in memorie:  30
+Numarul total de noduri calculate:  36
+Durata: 4.1246414 milisecunde
+
+----------------
+
+############################
+
+
+A* with open/write:
+Heuristic:  ordinary heuristic
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+#######
+abb##b#
+cccb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  256
+Numarul total de noduri calculate:  518
+Durata: 39.9754047 milisecunde
+
+----------------
+
+############################
+
+
+Heuristic:  heuristic 1
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+#######
+abb##b#
+cccb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  88
+Numarul total de noduri calculate:  123
+Durata: 8.0871582 milisecunde
+
+----------------
+
+############################
+
+
+Heuristic:  heuristic 2
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+#######
+abb##b#
+cccb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  189
+Numarul total de noduri calculate:  371
+Durata: 28.0230045 milisecunde
+
+----------------
+
+############################
+
+
+Heuristic:  bad heuristic
+Solutie : 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+ccccf##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4286,
+####f##
+###bfb#
+abbffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  29
+Numarul total de noduri calculate:  30
+Durata: 3.5126209 milisecunde
+
+----------------
+
+############################
+
+
+IDA*:
+Heuristic:  ordinary heuristic
+S-a depasit limita de timp
+############################
+
+
+Heuristic:  heuristic 1
+Solutie: 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+#######
+abb##b#
+cccb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  29
+Numarul total de noduri calculate:  53450
+Durata: 45.8221436 milisecunde
+
+----------------
+
+Solutie: 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+####f##
+###bfb#
+abbffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+abbb#b#
+aaaa#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  29
+Numarul total de noduri calculate:  53457
+Durata: 46.2927818 milisecunde
+
+----------------
+
+Solutie: 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####f##
+abbbfb#
+cccffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.4545,
+####f##
+###bfb#
+abbffb#
+aaaafb#
+bbbbbb#
+
+Cost mutare: 1.0,
+####f##
+####fb#
+###bfb#
+#bbffb#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#####b#
+#####b#
+#bbb#b#
+bbbbbb#
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 7 mutari cu costul 6.8831.
+Numarul maxim de noduri in memorie:  29
+Numarul total de noduri calculate:  53459
+Durata: 46.5466976 milisecunde
+
+----------------
+
+############################
+
+
+Heuristic:  heuristic 2
+S-a depasit limita de timp
+############################
+
+
+Heuristic:  bad heuristic
+Solutie: 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####faa
+###bfab
+abbffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.0,
+#####aa
+#####ab
+abbb#ab
+aaaa#ab
+bbbbbab
+
+Cost mutare: 1.0,
+#####a#
+#####a#
+abbb#a#
+aaaa#a#
+bbbbbaa
+
+Cost mutare: 1.6667,
+#######
+#######
+abbb###
+aaaa###
+bbbbb##
+
+Cost mutare: 1.4545,
+#######
+#######
+#######
+abbb###
+aaaa###
+
+Cost mutare: 1.375,
+#######
+#######
+#######
+#######
+#bbb###
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 9 mutari cu costul 9.9248.
+Numarul maxim de noduri in memorie:  36
+Numarul total de noduri calculate:  106516
+Durata: 434.0827465 milisecunde
+
+----------------
+
+Solutie: 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####faa
+###bfab
+abbffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.0,
+#####aa
+#####ab
+abbb#ab
+aaaa#ab
+bbbbbab
+
+Cost mutare: 1.0,
+#####a#
+#####a#
+abbb#a#
+aaaa#a#
+bbbbbaa
+
+Cost mutare: 1.6667,
+#######
+#######
+abbb###
+aaaa###
+bbbbb##
+
+Cost mutare: 1.4545,
+#######
+#######
+#######
+abbb###
+aaaa###
+
+Cost mutare: 1.375,
+#######
+#######
+#######
+a######
+aaaa###
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 9 mutari cu costul 9.9248.
+Numarul maxim de noduri in memorie:  36
+Numarul total de noduri calculate:  106517
+Durata: 434.1979027 milisecunde
+
+----------------
+
+Solutie: 
+ccccfaa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+####faa
+abbbfab
+cccffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.4286,
+####faa
+###bfab
+abbffab
+aaaafab
+bbbbbab
+
+Cost mutare: 1.0,
+#####aa
+#####ab
+abbb#ab
+aaaa#ab
+bbbbbab
+
+Cost mutare: 1.0,
+#####aa
+#####ab
+a####ab
+aaaa#ab
+bbbbbab
+
+Cost mutare: 1.75,
+####aa#
+####ba#
+####ba#
+a###ba#
+aaaaba#
+
+Cost mutare: 1.4444,
+#######
+####b##
+####b##
+a###b##
+aaaab##
+
+Cost mutare: 1.4545,
+#######
+#######
+#######
+a######
+aaaa###
+
+Cost mutare: 1.0,
+#######
+#######
+#######
+#######
+#######
+
+Cost mutare: 1.0,
+S-au realizat 9 mutari cu costul 10.0776.
+Numarul maxim de noduri in memorie:  36
+Numarul total de noduri calculate:  109722
+Durata: 720.9529877 milisecunde
+
+----------------
+
+############################
+
+

@@ -1,0 +1,68 @@
+Uniform cost search:
+Nu exista solutie
+############################
+
+
+A*:
+Heuristic:  ordinary heuristic
+Nu exista solutie
+############################
+
+
+Heuristic:  heuristic 1
+Nu exista solutie
+############################
+
+
+Heuristic:  heuristic 2
+Nu exista solutie
+############################
+
+
+Heuristic:  bad heuristic
+Nu exista solutie
+############################
+
+
+A* with open/write:
+Heuristic:  ordinary heuristic
+Nu exista solutie
+############################
+
+
+Heuristic:  heuristic 1
+Nu exista solutie
+############################
+
+
+Heuristic:  heuristic 2
+Nu exista solutie
+############################
+
+
+Heuristic:  bad heuristic
+Nu exista solutie
+############################
+
+
+IDA*:
+Heuristic:  ordinary heuristic
+Nu exista solutie
+############################
+
+
+Heuristic:  heuristic 1
+Nu exista solutie
+############################
+
+
+Heuristic:  heuristic 2
+Nu exista solutie
+############################
+
+
+Heuristic:  bad heuristic
+Nu exista solutie
+############################
+
+
