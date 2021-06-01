@@ -8,5 +8,5 @@ The algorithms used in this homework are the following:
 
 What I observed while trying these various algorithms was that A* performed a bit better than IDA* (28 miliseconds compared to 45), but in terms of memory IDA* made a big difference, having 36 search nodes in memory (at maximum) while A* had up to 7 times more.
 
-I also tried using four different heuristics for estimating the cost, one overshooting and resulting in non optimal solutions and one ordinary heuristic. The other two were created based on the cost equation that stated that the cost of a move was:
+I also tried using four different heuristics for estimating the cost, one overshooting and resulting in non optimal solutions and one ordinary heuristic. The other two were created based on the cost equation that stated that the cost of a move was: <br>
 `cost = 1 + (N - K)/N` where K is the number of eliminated blocks, and N the total number of blocks of the same color with the eliminated blocks. With that idea in mind, the heuristic that I first came up with estimated the cost to be the number of colors remaining. The second one was a simplified version of the first one.
